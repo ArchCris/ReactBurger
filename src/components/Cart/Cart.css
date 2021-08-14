@@ -1,0 +1,56 @@
+.cartConteiner{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buyScreen{
+    height: auto;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buyerData{
+    height: 80vh;
+    width: 50vw;
+    padding: 5vw;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buyerData fieldset{
+    height: 40%;
+    width: 100%;
+}
+fieldset .field{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    height: auto;
+    width: 50vw;
+    padding: 5vw;
+    font-size: 20px;
+    font-family:'Arial Narrow', Arial, sans-serif;
+}
+thead{
+    background-color: rgba(222, 184, 135, 0.25);
+}
+tr{
+    text-align: center;
+    font-weight: 100;
+}
+img{
+    width: 10%;
+}
+.buyMessage{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(195, 33, 33);
+}

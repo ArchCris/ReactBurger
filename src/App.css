@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.conteinerGral{
+    height: 100vh;
+    width: 100%;
+    font-family: 'Staatliches', cursive;
+    position: relative;
+}

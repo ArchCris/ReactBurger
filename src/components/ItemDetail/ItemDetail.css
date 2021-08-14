@@ -1,0 +1,47 @@
+
+.contenedorItemdetail{
+    margin: 20px;
+    height: 90%;
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.contenedorItemdetail img{
+    width: 60vw;
+    max-width: 600px;
+}
+.contenedorItemdetail #precio{
+    color: rgb(63, 105, 0);
+    margin: 10px;
+    font-size: 30px;
+}
+.btnDiv{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedorItemdetail .btnBuy{
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    background-color: #317031;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.contenedorItemdetail .btnBuy:hover{
+    background-color: #31703167;
+    color: #317031;
+    box-shadow: inset 0px 0px 0px 3px green;
+    transition: all 400ms ease; 
+}
+.contenedorItemdetail #nameDetail{
+    font-size: 30px;
+}
+

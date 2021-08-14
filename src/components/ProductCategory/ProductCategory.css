@@ -1,0 +1,24 @@
+.categoryConteiner{
+    height: 5vh;
+    width: 100%;
+    background-color: #F00000;
+    box-shadow: inset 0px 20px 15px -20px rgb(95, 95, 95);
+    
+}
+.categoryConteiner ul{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+.categoryConteiner a{
+    color: white;
+}
+.categoryConteiner a:hover{
+    color:  #ffe68c;
+    font-size: 35px;
+    transition: all 300ms ease-out;
+    
+}

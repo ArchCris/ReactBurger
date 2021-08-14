@@ -1,0 +1,16 @@
+.conteinerAboutus{
+    height: 80vh;
+    width: 100%;
+}
+.info{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.parteA,.parteB{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

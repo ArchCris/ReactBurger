@@ -1,0 +1,47 @@
+.contenedorItem{
+    margin: 20px;
+    height: 350px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(187, 187, 187, 0.383);
+    border-radius: 10px;
+
+}
+.contenedorItem img{
+    width: 200px;
+}
+.contenedorItem p{
+    font-weight: bold;
+    color: rgb(42, 42, 42);
+}
+.contenedorItem a{
+    width: 200px;
+    height: 40px;
+    background-color: grey;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.contenedorItem #precio{
+    color: rgb(63, 105, 0);
+    margin: 10px;
+    font-size: 30px;
+}
+.contenedorItem .nameItem{
+    color: rgb(124, 124, 124);
+    margin: 10px;
+    font-size: 22px;
+}
+.contenedorItem a:hover{
+    background-color: white;
+    color: grey;
+}
+
+
+
+

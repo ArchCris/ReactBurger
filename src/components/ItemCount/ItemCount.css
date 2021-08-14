@@ -1,0 +1,26 @@
+.Container{
+    height: 40px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Container #btnplus{
+    height: 100%;
+    width: 20%;
+    font-size: 20px;
+}
+.Container #btnsubstract{
+    height: 100%;
+    width: 20%;
+    font-size: 20px;
+}
+.Container #display{
+    height: 100%;
+    width: 60%;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
