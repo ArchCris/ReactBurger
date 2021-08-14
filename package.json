@@ -1,5 +1,6 @@
 {
   "name": "react_project",
+  "homepage": "https://archcris.github.io/ReactBurger/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
