@@ -14,7 +14,7 @@ const App = () => {
   
   return (
   <CacheProvider>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="conteinerGral">
         <NavBar />
           <Switch>
