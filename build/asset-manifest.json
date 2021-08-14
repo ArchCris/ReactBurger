@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactBurger/static/css/main.fe18baeb.chunk.css",
+    "main.js": "/ReactBurger/static/js/main.4434bd4b.chunk.js",
+    "main.js.map": "/ReactBurger/static/js/main.4434bd4b.chunk.js.map",
+    "runtime-main.js": "/ReactBurger/static/js/runtime-main.b6af10f9.js",
+    "runtime-main.js.map": "/ReactBurger/static/js/runtime-main.b6af10f9.js.map",
+    "static/js/2.59e4423f.chunk.js": "/ReactBurger/static/js/2.59e4423f.chunk.js",
+    "static/js/2.59e4423f.chunk.js.map": "/ReactBurger/static/js/2.59e4423f.chunk.js.map",
+    "index.html": "/ReactBurger/index.html",
+    "static/css/main.fe18baeb.chunk.css.map": "/ReactBurger/static/css/main.fe18baeb.chunk.css.map",
+    "static/js/2.59e4423f.chunk.js.LICENSE.txt": "/ReactBurger/static/js/2.59e4423f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6af10f9.js",
+    "static/js/2.59e4423f.chunk.js",
+    "static/css/main.fe18baeb.chunk.css",
+    "static/js/main.4434bd4b.chunk.js"
+  ]
+}
